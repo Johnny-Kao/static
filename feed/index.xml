@@ -9,8 +9,8 @@
 
 <channel>
 	<title>企鵝旅行手札</title>
-	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
 	<description>慢一點，靈魂才跟得上</description>
 	<lastBuildDate>Wed, 29 Jul 2020 14:34:02 +0000</lastBuildDate>
 	<language>zh-TW</language>
@@ -21,21 +21,21 @@
 	<generator>https://wordpress.org/?v=5.3.2</generator>
 	<item>
 		<title>網站第一篇文章</title>
-		<link>/hello-world/</link>
-				<comments>/hello-world/#comments</comments>
+		<link>./../hello-world/index.html</link>
+				<comments>./../hello-world/index.html#comments</comments>
 				<pubDate>Wed, 29 Jul 2020 14:23:27 +0000</pubDate>
 		<dc:creator><![CDATA[at12885]]></dc:creator>
 				<category><![CDATA[未分類]]></category>
 
-		<guid isPermaLink="false">/?p=1</guid>
+		<guid isPermaLink="false">./../index.html?p=1</guid>
 				<description><![CDATA[歡迎使用 WordPress。這是這個網站的第一篇文章，試試為這篇文章進行編輯或直接刪除，然後開始撰寫新文章！]]></description>
-						<wfw:commentRss>/hello-world/feed/</wfw:commentRss>
+						<wfw:commentRss>./../hello-world/feed/index.html</wfw:commentRss>
 		<slash:comments>1</slash:comments>
 							</item>
 		<item>
 		<title>Williamsburg dreamcatcher</title>
-		<link>/williamsburg-dreamcatcher/</link>
-				<comments>/williamsburg-dreamcatcher/#comments</comments>
+		<link>./../williamsburg-dreamcatcher/index.html</link>
+				<comments>./../williamsburg-dreamcatcher/index.html#comments</comments>
 				<pubDate>Thu, 15 Sep 2016 07:46:56 +0000</pubDate>
 		<dc:creator><![CDATA[at12885]]></dc:creator>
 				<category><![CDATA[Looks]]></category>
@@ -45,13 +45,13 @@
 
 		<guid isPermaLink="false">http://www.cssigniter.com/vip/untoldstories/?p=233</guid>
 				<description><![CDATA[Wes Anderson banjo you probably haven&#8217;t heard of  [&#8230;]]]></description>
-						<wfw:commentRss>/williamsburg-dreamcatcher/feed/</wfw:commentRss>
+						<wfw:commentRss>./../williamsburg-dreamcatcher/feed/index.html</wfw:commentRss>
 		<slash:comments>2</slash:comments>
 							</item>
 		<item>
 		<title>Next level mustache</title>
-		<link>/next-level-mustache/</link>
-				<comments>/next-level-mustache/#respond</comments>
+		<link>./../next-level-mustache/index.html</link>
+				<comments>./../next-level-mustache/index.html#respond</comments>
 				<pubDate>Wed, 14 Sep 2016 10:25:37 +0000</pubDate>
 		<dc:creator><![CDATA[at12885]]></dc:creator>
 				<category><![CDATA[Fashion]]></category>
@@ -61,13 +61,13 @@
 
 		<guid isPermaLink="false">http://www.cssigniter.com/vip/untoldstories/?p=256</guid>
 				<description><![CDATA[Wes Anderson banjo you probably haven&#8217;t heard of  [&#8230;]]]></description>
-						<wfw:commentRss>/next-level-mustache/feed/</wfw:commentRss>
+						<wfw:commentRss>./../next-level-mustache/feed/index.html</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
 		<title>Skateboard occupy</title>
-		<link>/skateboard-occupy/</link>
-				<comments>/skateboard-occupy/#respond</comments>
+		<link>./../skateboard-occupy/index.html</link>
+				<comments>./../skateboard-occupy/index.html#respond</comments>
 				<pubDate>Tue, 13 Sep 2016 10:28:10 +0000</pubDate>
 		<dc:creator><![CDATA[at12885]]></dc:creator>
 				<category><![CDATA[Fashion]]></category>
@@ -77,13 +77,13 @@
 
 		<guid isPermaLink="false">http://www.cssigniter.com/vip/untoldstories/?p=259</guid>
 				<description><![CDATA[Wes Anderson banjo you probably haven&#8217;t heard of  [&#8230;]]]></description>
-						<wfw:commentRss>/skateboard-occupy/feed/</wfw:commentRss>
+						<wfw:commentRss>./../skateboard-occupy/feed/index.html</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
 		<title>Audio Mixcloud Post</title>
-		<link>/audio-mixcloud-post/</link>
-				<comments>/audio-mixcloud-post/#respond</comments>
+		<link>./../audio-mixcloud-post/index.html</link>
+				<comments>./../audio-mixcloud-post/index.html#respond</comments>
 				<pubDate>Tue, 13 Sep 2016 09:58:47 +0000</pubDate>
 		<dc:creator><![CDATA[at12885]]></dc:creator>
 				<category><![CDATA[Music]]></category>
@@ -93,13 +93,13 @@
 
 		<guid isPermaLink="false">http://www.cssigniter.com/vip/untoldstories/?p=245</guid>
 				<description><![CDATA[Wes Anderson banjo you probably haven&#8217;t heard of  [&#8230;]]]></description>
-						<wfw:commentRss>/audio-mixcloud-post/feed/</wfw:commentRss>
+						<wfw:commentRss>./../audio-mixcloud-post/feed/index.html</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
 		<title>Marfa Odd Future</title>
-		<link>/my-trip-to-rome/</link>
-				<comments>/my-trip-to-rome/#respond</comments>
+		<link>./../my-trip-to-rome/index.html</link>
+				<comments>./../my-trip-to-rome/index.html#respond</comments>
 				<pubDate>Tue, 13 Sep 2016 08:35:02 +0000</pubDate>
 		<dc:creator><![CDATA[at12885]]></dc:creator>
 				<category><![CDATA[Looks]]></category>
@@ -109,13 +109,13 @@
 
 		<guid isPermaLink="false">http://www.cssigniter.com/vip/untoldstories/?p=211</guid>
 				<description><![CDATA[Wes Anderson banjo you probably haven&#8217;t heard of  [&#8230;]]]></description>
-						<wfw:commentRss>/my-trip-to-rome/feed/</wfw:commentRss>
+						<wfw:commentRss>./../my-trip-to-rome/feed/index.html</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
 		<title>Bespoke salvia</title>
-		<link>/bespoke-salvia/</link>
-				<comments>/bespoke-salvia/#respond</comments>
+		<link>./../bespoke-salvia/index.html</link>
+				<comments>./../bespoke-salvia/index.html#respond</comments>
 				<pubDate>Tue, 13 Sep 2016 05:14:05 +0000</pubDate>
 		<dc:creator><![CDATA[at12885]]></dc:creator>
 				<category><![CDATA[Nature]]></category>
@@ -125,13 +125,13 @@
 
 		<guid isPermaLink="false">http://www.cssigniter.com/vip/untoldstories/?p=254</guid>
 				<description><![CDATA[Wes Anderson banjo you probably haven&#8217;t heard of  [&#8230;]]]></description>
-						<wfw:commentRss>/bespoke-salvia/feed/</wfw:commentRss>
+						<wfw:commentRss>./../bespoke-salvia/feed/index.html</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
 		<title>Meditation flexitarian</title>
-		<link>/meditation-flexitarian-authentic/</link>
-				<comments>/meditation-flexitarian-authentic/#respond</comments>
+		<link>./../meditation-flexitarian-authentic/index.html</link>
+				<comments>./../meditation-flexitarian-authentic/index.html#respond</comments>
 				<pubDate>Mon, 12 Sep 2016 20:03:38 +0000</pubDate>
 		<dc:creator><![CDATA[at12885]]></dc:creator>
 				<category><![CDATA[Fashion]]></category>
@@ -141,13 +141,13 @@
 
 		<guid isPermaLink="false">http://www.cssigniter.com/vip/untoldstories/?p=187</guid>
 				<description><![CDATA[Wes Anderson banjo you probably haven&#8217;t heard of  [&#8230;]]]></description>
-						<wfw:commentRss>/meditation-flexitarian-authentic/feed/</wfw:commentRss>
+						<wfw:commentRss>./../meditation-flexitarian-authentic/feed/index.html</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
 		<title>Sartorial street art</title>
-		<link>/sartorial-street-art/</link>
-				<comments>/sartorial-street-art/#respond</comments>
+		<link>./../sartorial-street-art/index.html</link>
+				<comments>./../sartorial-street-art/index.html#respond</comments>
 				<pubDate>Mon, 12 Sep 2016 19:41:46 +0000</pubDate>
 		<dc:creator><![CDATA[at12885]]></dc:creator>
 				<category><![CDATA[Fashion]]></category>
@@ -157,13 +157,13 @@
 
 		<guid isPermaLink="false">http://www.cssigniter.com/vip/untoldstories/?p=159</guid>
 				<description><![CDATA[Wes Anderson banjo you probably haven&#8217;t heard of  [&#8230;]]]></description>
-						<wfw:commentRss>/sartorial-street-art/feed/</wfw:commentRss>
+						<wfw:commentRss>./../sartorial-street-art/feed/index.html</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
 		<title>Sustainable &#038; ethical</title>
-		<link>/sustainable-ethical/</link>
-				<comments>/sustainable-ethical/#respond</comments>
+		<link>./../sustainable-ethical/index.html</link>
+				<comments>./../sustainable-ethical/index.html#respond</comments>
 				<pubDate>Mon, 12 Sep 2016 09:42:03 +0000</pubDate>
 		<dc:creator><![CDATA[at12885]]></dc:creator>
 				<category><![CDATA[Looks]]></category>
@@ -173,7 +173,7 @@
 
 		<guid isPermaLink="false">http://www.cssigniter.com/vip/untoldstories/?p=227</guid>
 				<description><![CDATA[Wes Anderson banjo you probably haven&#8217;t heard of  [&#8230;]]]></description>
-						<wfw:commentRss>/sustainable-ethical/feed/</wfw:commentRss>
+						<wfw:commentRss>./../sustainable-ethical/feed/index.html</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 	</channel>

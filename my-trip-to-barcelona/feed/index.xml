@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	〈My Trip To Barcelona〉的留言	</title>
-	<atom:link href="/my-trip-to-barcelona/feed/" rel="self" type="application/rss+xml" />
-	<link>/my-trip-to-barcelona/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
 	<description>慢一點，靈魂才跟得上</description>
 	<lastBuildDate>Wed, 29 Jul 2020 14:34:02 +0000</lastBuildDate>
 	<sy:updatePeriod>

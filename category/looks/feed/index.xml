@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Looks &#8211; 企鵝旅行手札</title>
-	<atom:link href="/category/looks/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
 	<description>慢一點，靈魂才跟得上</description>
 	<lastBuildDate>Wed, 29 Jul 2020 14:34:02 +0000</lastBuildDate>
 	<language>zh-TW</language>
@@ -21,8 +21,8 @@
 	<generator>https://wordpress.org/?v=5.3.2</generator>
 	<item>
 		<title>Williamsburg dreamcatcher</title>
-		<link>/williamsburg-dreamcatcher/</link>
-				<comments>/williamsburg-dreamcatcher/#comments</comments>
+		<link>./../../../williamsburg-dreamcatcher/index.html</link>
+				<comments>./../../../williamsburg-dreamcatcher/index.html#comments</comments>
 				<pubDate>Thu, 15 Sep 2016 07:46:56 +0000</pubDate>
 		<dc:creator><![CDATA[at12885]]></dc:creator>
 				<category><![CDATA[Looks]]></category>
@@ -32,13 +32,13 @@
 
 		<guid isPermaLink="false">http://www.cssigniter.com/vip/untoldstories/?p=233</guid>
 				<description><![CDATA[Wes Anderson banjo you probably haven&#8217;t heard of  [&#8230;]]]></description>
-						<wfw:commentRss>/williamsburg-dreamcatcher/feed/</wfw:commentRss>
+						<wfw:commentRss>./../../../williamsburg-dreamcatcher/feed/index.html</wfw:commentRss>
 		<slash:comments>2</slash:comments>
 							</item>
 		<item>
 		<title>Marfa Odd Future</title>
-		<link>/my-trip-to-rome/</link>
-				<comments>/my-trip-to-rome/#respond</comments>
+		<link>./../../../my-trip-to-rome/index.html</link>
+				<comments>./../../../my-trip-to-rome/index.html#respond</comments>
 				<pubDate>Tue, 13 Sep 2016 08:35:02 +0000</pubDate>
 		<dc:creator><![CDATA[at12885]]></dc:creator>
 				<category><![CDATA[Looks]]></category>
@@ -48,13 +48,13 @@
 
 		<guid isPermaLink="false">http://www.cssigniter.com/vip/untoldstories/?p=211</guid>
 				<description><![CDATA[Wes Anderson banjo you probably haven&#8217;t heard of  [&#8230;]]]></description>
-						<wfw:commentRss>/my-trip-to-rome/feed/</wfw:commentRss>
+						<wfw:commentRss>./../../../my-trip-to-rome/feed/index.html</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
 		<title>Sustainable &#038; ethical</title>
-		<link>/sustainable-ethical/</link>
-				<comments>/sustainable-ethical/#respond</comments>
+		<link>./../../../sustainable-ethical/index.html</link>
+				<comments>./../../../sustainable-ethical/index.html#respond</comments>
 				<pubDate>Mon, 12 Sep 2016 09:42:03 +0000</pubDate>
 		<dc:creator><![CDATA[at12885]]></dc:creator>
 				<category><![CDATA[Looks]]></category>
@@ -64,13 +64,13 @@
 
 		<guid isPermaLink="false">http://www.cssigniter.com/vip/untoldstories/?p=227</guid>
 				<description><![CDATA[Wes Anderson banjo you probably haven&#8217;t heard of  [&#8230;]]]></description>
-						<wfw:commentRss>/sustainable-ethical/feed/</wfw:commentRss>
+						<wfw:commentRss>./../../../sustainable-ethical/feed/index.html</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
 		<title>Pickled jean shorts</title>
-		<link>/pickled-jean-shorts/</link>
-				<comments>/pickled-jean-shorts/#respond</comments>
+		<link>./../../../pickled-jean-shorts/index.html</link>
+				<comments>./../../../pickled-jean-shorts/index.html#respond</comments>
 				<pubDate>Mon, 12 Sep 2016 09:37:19 +0000</pubDate>
 		<dc:creator><![CDATA[at12885]]></dc:creator>
 				<category><![CDATA[Looks]]></category>
@@ -80,13 +80,13 @@
 
 		<guid isPermaLink="false">http://www.cssigniter.com/vip/untoldstories/?p=222</guid>
 				<description><![CDATA[Wes Anderson banjo you probably haven&#8217;t heard of  [&#8230;]]]></description>
-						<wfw:commentRss>/pickled-jean-shorts/feed/</wfw:commentRss>
+						<wfw:commentRss>./../../../pickled-jean-shorts/feed/index.html</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
 		<title>Swag meggings jean</title>
-		<link>/swag-meggings-jean/</link>
-				<comments>/swag-meggings-jean/#respond</comments>
+		<link>./../../../swag-meggings-jean/index.html</link>
+				<comments>./../../../swag-meggings-jean/index.html#respond</comments>
 				<pubDate>Sun, 11 Sep 2016 09:40:00 +0000</pubDate>
 		<dc:creator><![CDATA[at12885]]></dc:creator>
 				<category><![CDATA[Looks]]></category>
@@ -96,13 +96,13 @@
 
 		<guid isPermaLink="false">http://www.cssigniter.com/vip/untoldstories/?p=224</guid>
 				<description><![CDATA[Wes Anderson banjo you probably haven&#8217;t heard of  [&#8230;]]]></description>
-						<wfw:commentRss>/swag-meggings-jean/feed/</wfw:commentRss>
+						<wfw:commentRss>./../../../swag-meggings-jean/feed/index.html</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
 		<title>Single Origin Meditation</title>
-		<link>/single-origin-meditation/</link>
-				<comments>/single-origin-meditation/#respond</comments>
+		<link>./../../../single-origin-meditation/index.html</link>
+				<comments>./../../../single-origin-meditation/index.html#respond</comments>
 				<pubDate>Fri, 09 Sep 2016 09:44:31 +0000</pubDate>
 		<dc:creator><![CDATA[at12885]]></dc:creator>
 				<category><![CDATA[Looks]]></category>
@@ -112,13 +112,13 @@
 
 		<guid isPermaLink="false">http://www.cssigniter.com/vip/untoldstories/?p=229</guid>
 				<description><![CDATA[Wes Anderson banjo you probably haven&#8217;t heard of  [&#8230;]]]></description>
-						<wfw:commentRss>/single-origin-meditation/feed/</wfw:commentRss>
+						<wfw:commentRss>./../../../single-origin-meditation/feed/index.html</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
 		<title>Schlitz Banksy Austin</title>
-		<link>/schlitz-banksy-austin/</link>
-				<comments>/schlitz-banksy-austin/#respond</comments>
+		<link>./../../../schlitz-banksy-austin/index.html</link>
+				<comments>./../../../schlitz-banksy-austin/index.html#respond</comments>
 				<pubDate>Wed, 07 Sep 2016 09:49:54 +0000</pubDate>
 		<dc:creator><![CDATA[at12885]]></dc:creator>
 				<category><![CDATA[Looks]]></category>
@@ -128,13 +128,13 @@
 
 		<guid isPermaLink="false">http://www.cssigniter.com/vip/untoldstories/?p=236</guid>
 				<description><![CDATA[Wes Anderson banjo you probably haven&#8217;t heard of  [&#8230;]]]></description>
-						<wfw:commentRss>/schlitz-banksy-austin/feed/</wfw:commentRss>
+						<wfw:commentRss>./../../../schlitz-banksy-austin/feed/index.html</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
 		<title>Tumblr Schlitz Banksy</title>
-		<link>/marfa-odd-future/</link>
-				<comments>/marfa-odd-future/#respond</comments>
+		<link>./../../../marfa-odd-future/index.html</link>
+				<comments>./../../../marfa-odd-future/index.html#respond</comments>
 				<pubDate>Tue, 06 Sep 2016 09:51:25 +0000</pubDate>
 		<dc:creator><![CDATA[at12885]]></dc:creator>
 				<category><![CDATA[Looks]]></category>
@@ -144,13 +144,13 @@
 
 		<guid isPermaLink="false">http://www.cssigniter.com/vip/untoldstories/?p=238</guid>
 				<description><![CDATA[Wes Anderson banjo you probably haven&#8217;t heard of  [&#8230;]]]></description>
-						<wfw:commentRss>/marfa-odd-future/feed/</wfw:commentRss>
+						<wfw:commentRss>./../../../marfa-odd-future/feed/index.html</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
 		<title>Etsy distillery</title>
-		<link>/etsy-distillery/</link>
-				<comments>/etsy-distillery/#respond</comments>
+		<link>./../../../etsy-distillery/index.html</link>
+				<comments>./../../../etsy-distillery/index.html#respond</comments>
 				<pubDate>Mon, 05 Sep 2016 09:52:58 +0000</pubDate>
 		<dc:creator><![CDATA[at12885]]></dc:creator>
 				<category><![CDATA[Looks]]></category>
@@ -160,13 +160,13 @@
 
 		<guid isPermaLink="false">http://www.cssigniter.com/vip/untoldstories/?p=240</guid>
 				<description><![CDATA[Wes Anderson banjo you probably haven&#8217;t heard of  [&#8230;]]]></description>
-						<wfw:commentRss>/etsy-distillery/feed/</wfw:commentRss>
+						<wfw:commentRss>./../../../etsy-distillery/feed/index.html</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
 		<title>Sustainable pop-up Echo</title>
-		<link>/marfa-odd-future-2/</link>
-				<comments>/marfa-odd-future-2/#respond</comments>
+		<link>./../../../marfa-odd-future-2/index.html</link>
+				<comments>./../../../marfa-odd-future-2/index.html#respond</comments>
 				<pubDate>Sun, 04 Sep 2016 09:54:51 +0000</pubDate>
 		<dc:creator><![CDATA[at12885]]></dc:creator>
 				<category><![CDATA[Looks]]></category>
@@ -176,7 +176,7 @@
 
 		<guid isPermaLink="false">http://www.cssigniter.com/vip/untoldstories/?p=242</guid>
 				<description><![CDATA[Wes Anderson banjo you probably haven&#8217;t heard of  [&#8230;]]]></description>
-						<wfw:commentRss>/marfa-odd-future-2/feed/</wfw:commentRss>
+						<wfw:commentRss>./../../../marfa-odd-future-2/feed/index.html</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 	</channel>

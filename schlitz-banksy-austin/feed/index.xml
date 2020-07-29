@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	〈Schlitz Banksy Austin〉的留言	</title>
-	<atom:link href="/schlitz-banksy-austin/feed/" rel="self" type="application/rss+xml" />
-	<link>/schlitz-banksy-austin/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
 	<description>慢一點，靈魂才跟得上</description>
 	<lastBuildDate>Wed, 29 Jul 2020 14:34:01 +0000</lastBuildDate>
 	<sy:updatePeriod>

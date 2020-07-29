@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	〈Williamsburg dreamcatcher〉的留言	</title>
-	<atom:link href="/williamsburg-dreamcatcher/feed/" rel="self" type="application/rss+xml" />
-	<link>/williamsburg-dreamcatcher/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
 	<description>慢一點，靈魂才跟得上</description>
 	<lastBuildDate>Wed, 29 Jul 2020 14:34:02 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,7 +20,7 @@
 			<item>
 				<title>
 				留言者: Gerasimos Tsiamalos				</title>
-				<link>/williamsburg-dreamcatcher/#comment-3</link>
+				<link>./../index.html#comment-3</link>
 		<dc:creator><![CDATA[Gerasimos Tsiamalos]]></dc:creator>
 		<pubDate>Thu, 08 Mar 2018 12:53:23 +0000</pubDate>
 		<guid isPermaLink="false">http://www.cssigniter.com/vip/untoldstories/?p=233#comment-3</guid>
@@ -31,7 +31,7 @@
 						<item>
 				<title>
 				留言者: Gerasimos Tsiamalos				</title>
-				<link>/williamsburg-dreamcatcher/#comment-2</link>
+				<link>./../index.html#comment-2</link>
 		<dc:creator><![CDATA[Gerasimos Tsiamalos]]></dc:creator>
 		<pubDate>Thu, 08 Mar 2018 12:53:00 +0000</pubDate>
 		<guid isPermaLink="false">http://www.cssigniter.com/vip/untoldstories/?p=233#comment-2</guid>

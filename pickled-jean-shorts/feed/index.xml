@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	〈Pickled jean shorts〉的留言	</title>
-	<atom:link href="/pickled-jean-shorts/feed/" rel="self" type="application/rss+xml" />
-	<link>/pickled-jean-shorts/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
 	<description>慢一點，靈魂才跟得上</description>
 	<lastBuildDate>Wed, 29 Jul 2020 14:34:01 +0000</lastBuildDate>
 	<sy:updatePeriod>

@@ -103,8 +103,8 @@
 
 @font-face {
   font-family: "gutenbee";
-  src: url(/wp-content/plugins/gutenbee/build/fonts/gutenbee.eot);
-  src: url(/wp-content/plugins/gutenbee/build/fonts/gutenbee.eot#iefix) format("eot"), url(/wp-content/plugins/gutenbee/build/fonts/gutenbee.woff2) format("woff2"), url(/wp-content/plugins/gutenbee/build/fonts/gutenbee.woff) format("woff"), url(/wp-content/plugins/gutenbee/build/fonts/gutenbee.ttf) format("truetype");
+  src: url(./fonts/gutenbee.eot);
+  src: url(./fonts/gutenbee.eot#iefix) format("eot"), url(./fonts/gutenbee.woff2) format("woff2"), url(./fonts/gutenbee.woff) format("woff"), url(./fonts/gutenbee.ttf) format("truetype");
 }
 
 .gutenbee:before {
@@ -413,8 +413,8 @@
 
 @font-face {
   font-family: "ep-icon-module";
-  src: url(/wp-content/plugins/gutenbee/build/fonts/ep-icon-module.eot);
-  src: url(/wp-content/plugins/gutenbee/build/fonts/ep-icon-module.eot#iefix) format("eot"), url(/wp-content/plugins/gutenbee/build/fonts/ep-icon-module.woff2) format("woff2"), url(/wp-content/plugins/gutenbee/build/fonts/ep-icon-module.woff) format("woff"), url(/wp-content/plugins/gutenbee/build/fonts/ep-icon-module.ttf) format("truetype");
+  src: url(./fonts/ep-icon-module.eot);
+  src: url(./fonts/ep-icon-module.eot#iefix) format("eot"), url(./fonts/ep-icon-module.woff2) format("woff2"), url(./fonts/ep-icon-module.woff) format("woff"), url(./fonts/ep-icon-module.ttf) format("truetype");
 }
 
 .ep-icon-module:before {
