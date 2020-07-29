@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	《企鵝旅行手札》的留言	</title>
+	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>慢一點，靈魂才跟得上</description>
+	<lastBuildDate>Wed, 29 Jul 2020 14:34:02 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.3.2</generator>
+			<item>
+				<title>
+				「WordPress 示範留言者」發佈於〈網站第一篇文章〉的留言				</title>
+				<link>/hello-world/#comment-1</link>
+		<dc:creator><![CDATA[WordPress 示範留言者]]></dc:creator>
+		<pubDate>Wed, 29 Jul 2020 14:23:27 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1#comment-1</guid>
+					<description><![CDATA[網站管理員你好，這是一則預留內容留言。
+如需開始審閱、編輯及刪除留言，請前往 [控制台] 的 [留言] 頁面進行必要的操作。
+留言者個人頭像來源為 &lt;a href=&quot;https://zh-tw.gravatar.com&quot;/ target=&quot;_blank&quot;&gt;Gravatar&lt;/a&gt;。]]></description>
+		<content:encoded><![CDATA[<p>網站管理員你好，這是一則預留內容留言。<br />
+如需開始審閱、編輯及刪除留言，請前往 [控制台] 的 [留言] 頁面進行必要的操作。<br />
+留言者個人頭像來源為 <a href="https://zh-tw.gravatar.com/" target="_blank">Gravatar</a>。</p>
+]]></content:encoded>
+						</item>
+						<item>
+				<title>
+				「Gerasimos Tsiamalos」發佈於〈Williamsburg dreamcatcher〉的留言				</title>
+				<link>/williamsburg-dreamcatcher/#comment-3</link>
+		<dc:creator><![CDATA[Gerasimos Tsiamalos]]></dc:creator>
+		<pubDate>Thu, 08 Mar 2018 12:53:23 +0000</pubDate>
+		<guid isPermaLink="false">http://www.cssigniter.com/vip/untoldstories/?p=233#comment-3</guid>
+					<description><![CDATA[Meditation flexitarian authentic organic, you probably haven’t heard of them taxidermy fap pop-up. Trust fund Tumblr Schlitz Banksy Austin squid. Whatever PBR&amp;B mustache locavore. Etsy distillery scenester Neutra 90’s]]></description>
+		<content:encoded><![CDATA[<p>Meditation flexitarian authentic organic, you probably haven’t heard of them taxidermy fap pop-up. Trust fund Tumblr Schlitz Banksy Austin squid. Whatever PBR&#038;B mustache locavore. Etsy distillery scenester Neutra 90’s</p>
+]]></content:encoded>
+						</item>
+						<item>
+				<title>
+				「Gerasimos Tsiamalos」發佈於〈Williamsburg dreamcatcher〉的留言				</title>
+				<link>/williamsburg-dreamcatcher/#comment-2</link>
+		<dc:creator><![CDATA[Gerasimos Tsiamalos]]></dc:creator>
+		<pubDate>Thu, 08 Mar 2018 12:53:00 +0000</pubDate>
+		<guid isPermaLink="false">http://www.cssigniter.com/vip/untoldstories/?p=233#comment-2</guid>
+					<description><![CDATA[Ugh polaroid health goth, fingerstache deep v normcore keffiyeh PBR plaid taxidermy. Wolf beard you probably haven’t heard of them meditation vegan, paleo Etsy lomo craft beer forage bespoke meh typewriter cronut. Sartorial authentic cray tattooed cred twee. 90’s chambray banjo Portland, street art chia leggings PBR&amp;B small batch. 8-bit selvage Pitchfork Godard.]]></description>
+		<content:encoded><![CDATA[<p>Ugh polaroid health goth, fingerstache deep v normcore keffiyeh PBR plaid taxidermy. Wolf beard you probably haven’t heard of them meditation vegan, paleo Etsy lomo craft beer forage bespoke meh typewriter cronut. Sartorial authentic cray tattooed cred twee. 90’s chambray banjo Portland, street art chia leggings PBR&#038;B small batch. 8-bit selvage Pitchfork Godard.</p>
+]]></content:encoded>
+						</item>
+			</channel>
+</rss>

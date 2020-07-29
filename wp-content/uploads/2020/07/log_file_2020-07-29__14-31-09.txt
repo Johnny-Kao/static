@@ -1,0 +1,60 @@
+
+---Upload files---
+Redux file was not uploaded. Error: 指定檔案進行上傳測試時發生錯誤。
+
+---Upload files---
+The import files were successfully uploaded!
+Initial max execution time = 240
+Files info:
+Site URL = http://192.168.123.164/wordpress
+Data file = /volume3/web/wordpress/wp-content/uploads/2020/07/content.xml
+Widget file = /volume3/web/wordpress/wp-content/uploads/2020/07/widgets.wie
+Customizer file = /volume3/web/wordpress/wp-content/uploads/2020/07/customizer.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Blog : 
+
+Theme - About Me - ABOUT ME - Imported
+Theme - Social Icons - SOCIAL ME - Imported
+Theme - Latest Posts - OTHER POSTS - Imported
+ci-instagram-feed - Instagram - Site does not support widget
+搜尋 - No Title - Imported
+分類 - CATEGORIES - Imported
+
+Footer Sidebar : 
+
+ci-instagram-feed - Instagram - Site does not support widget
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+

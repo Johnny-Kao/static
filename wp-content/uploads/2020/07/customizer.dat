@@ -1,0 +1,15 @@
+a:4:{s:8:"template";s:11:"olsen-light";s:4:"mods";a:12:{i:0;b:0;s:18:"nav_menu_locations";a:2:{s:9:"main_menu";i:25;s:11:"footer_menu";i:26;}s:15:"social_facebook";s:35:"https://www.facebook.com/cssigniter";s:14:"social_twitter";s:30:"https://twitter.com/cssigniter";s:16:"social_pinterest";s:37:"https://www.pinterest.com/cssigniter/";s:15:"social_dribbble";s:27:"https://dribbble.com/tsiger";s:11:"footer_logo";s:76:"https://www.cssigniter.net/preview/olsenlight/files/2015/10/olsen_footer.png";s:24:"dismissed_sample_content";b:1;s:18:"custom_css_post_id";i:532;s:18:"jetpack_custom_css";a:3:{s:12:"preprocessor";s:0:"";s:7:"replace";b:0;s:13:"content_width";s:0:"";}s:16:"home_slider_term";i:2;s:17:"imported_wp5_mods";b:1;}s:7:"options";a:9:{s:9:"site_icon";s:1:"0";s:43:"wpseo_titles[breadcrumbs-display-blog-page]";b:1;s:29:"wpseo_titles[breadcrumbs-sep]";s:7:"&raquo;";s:30:"wpseo_titles[breadcrumbs-home]";s:4:"Home";s:32:"wpseo_titles[breadcrumbs-prefix]";s:0:"";s:39:"wpseo_titles[breadcrumbs-archiveprefix]";s:12:"Archives for";s:38:"wpseo_titles[breadcrumbs-searchprefix]";s:16:"You searched for";s:34:"wpseo_titles[breadcrumbs-404crumb]";s:25:"Error 404: Page not found";s:23:"nav_menus_created_posts";a:0:{}}s:6:"wp_css";s:212:".tagline,
+.site-bar,
+.entry-meta,
+.entry-title,
+.entry-tags,
+#paging,
+.btn,
+.comment-reply-link,
+input[type="button"],
+input[type="submit"],
+input[type="reset"],
+button,
+.read-more {
+	text-transform: uppercase;
+}";}
