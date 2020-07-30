@@ -12,7 +12,7 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../index.html</link>
 	<description>慢一點，靈魂才跟得上</description>
-	<lastBuildDate>Wed, 29 Jul 2020 16:26:33 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 30 Jul 2020 14:14:55 +0000</lastBuildDate>
 	<language>zh-TW</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -30,7 +30,7 @@
 		<category><![CDATA[茨城]]></category>
 
 		<guid isPermaLink="false">./../index.html?p=627</guid>
-				<description><![CDATA[為了促進當地觀光產業發展，茨城縣2018年開始推動「茨城自行車活用推進計畫」著手打造自行車友善的城市。佔茨城縣 [&#8230;]]]></description>
+				<description><![CDATA[為了促進當地觀光產業發展，茨城縣2018年開始推動「茨城自行車活用推進計畫」著手打造自行車友善的城市。 佔茨城 [&#8230;]]]></description>
 									</item>
 		<item>
 		<title>網站第一篇文章</title>
@@ -110,54 +110,6 @@
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
-		<title>Marfa Odd Future</title>
-		<link>./../my-trip-to-rome/index.html</link>
-				<comments>./../my-trip-to-rome/index.html#respond</comments>
-				<pubDate>Tue, 13 Sep 2016 08:35:02 +0000</pubDate>
-		<dc:creator><![CDATA[at12885]]></dc:creator>
-				<category><![CDATA[Looks]]></category>
-		<category><![CDATA[Autumn]]></category>
-		<category><![CDATA[Dress]]></category>
-		<category><![CDATA[Photography]]></category>
-
-		<guid isPermaLink="false">http://www.cssigniter.com/vip/untoldstories/?p=211</guid>
-				<description><![CDATA[Wes Anderson banjo you probably haven&#8217;t heard of  [&#8230;]]]></description>
-						<wfw:commentRss>./../my-trip-to-rome/feed/index.html</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-							</item>
-		<item>
-		<title>Bespoke salvia</title>
-		<link>./../bespoke-salvia/index.html</link>
-				<comments>./../bespoke-salvia/index.html#respond</comments>
-				<pubDate>Tue, 13 Sep 2016 05:14:05 +0000</pubDate>
-		<dc:creator><![CDATA[at12885]]></dc:creator>
-				<category><![CDATA[Nature]]></category>
-		<category><![CDATA[Autumn]]></category>
-		<category><![CDATA[Dress]]></category>
-		<category><![CDATA[Photography]]></category>
-
-		<guid isPermaLink="false">http://www.cssigniter.com/vip/untoldstories/?p=254</guid>
-				<description><![CDATA[Wes Anderson banjo you probably haven&#8217;t heard of  [&#8230;]]]></description>
-						<wfw:commentRss>./../bespoke-salvia/feed/index.html</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-							</item>
-		<item>
-		<title>Meditation flexitarian</title>
-		<link>./../meditation-flexitarian-authentic/index.html</link>
-				<comments>./../meditation-flexitarian-authentic/index.html#respond</comments>
-				<pubDate>Mon, 12 Sep 2016 20:03:38 +0000</pubDate>
-		<dc:creator><![CDATA[at12885]]></dc:creator>
-				<category><![CDATA[Fashion]]></category>
-		<category><![CDATA[Autumn]]></category>
-		<category><![CDATA[Dress]]></category>
-		<category><![CDATA[Photography]]></category>
-
-		<guid isPermaLink="false">http://www.cssigniter.com/vip/untoldstories/?p=187</guid>
-				<description><![CDATA[Wes Anderson banjo you probably haven&#8217;t heard of  [&#8230;]]]></description>
-						<wfw:commentRss>./../meditation-flexitarian-authentic/feed/index.html</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-							</item>
-		<item>
 		<title>Sartorial street art</title>
 		<link>./../sartorial-street-art/index.html</link>
 				<comments>./../sartorial-street-art/index.html#respond</comments>
@@ -171,6 +123,54 @@
 		<guid isPermaLink="false">http://www.cssigniter.com/vip/untoldstories/?p=159</guid>
 				<description><![CDATA[Wes Anderson banjo you probably haven&#8217;t heard of  [&#8230;]]]></description>
 						<wfw:commentRss>./../sartorial-street-art/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>Sustainable &#038; ethical</title>
+		<link>./../sustainable-ethical/index.html</link>
+				<comments>./../sustainable-ethical/index.html#respond</comments>
+				<pubDate>Mon, 12 Sep 2016 09:42:03 +0000</pubDate>
+		<dc:creator><![CDATA[at12885]]></dc:creator>
+				<category><![CDATA[Looks]]></category>
+		<category><![CDATA[Autumn]]></category>
+		<category><![CDATA[Dress]]></category>
+		<category><![CDATA[Photography]]></category>
+
+		<guid isPermaLink="false">http://www.cssigniter.com/vip/untoldstories/?p=227</guid>
+				<description><![CDATA[Wes Anderson banjo you probably haven&#8217;t heard of  [&#8230;]]]></description>
+						<wfw:commentRss>./../sustainable-ethical/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>My Trip To Barcelona</title>
+		<link>./../my-trip-to-barcelona/index.html</link>
+				<comments>./../my-trip-to-barcelona/index.html#respond</comments>
+				<pubDate>Sun, 11 Sep 2016 10:09:23 +0000</pubDate>
+		<dc:creator><![CDATA[at12885]]></dc:creator>
+				<category><![CDATA[Travel]]></category>
+		<category><![CDATA[Autumn]]></category>
+		<category><![CDATA[Dress]]></category>
+		<category><![CDATA[Photography]]></category>
+
+		<guid isPermaLink="false">http://www.cssigniter.com/vip/untoldstories/?p=251</guid>
+				<description><![CDATA[Wes Anderson banjo you probably haven&#8217;t heard of  [&#8230;]]]></description>
+						<wfw:commentRss>./../my-trip-to-barcelona/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>Swag meggings jean</title>
+		<link>./../swag-meggings-jean/index.html</link>
+				<comments>./../swag-meggings-jean/index.html#respond</comments>
+				<pubDate>Sun, 11 Sep 2016 09:40:00 +0000</pubDate>
+		<dc:creator><![CDATA[at12885]]></dc:creator>
+				<category><![CDATA[Looks]]></category>
+		<category><![CDATA[Autumn]]></category>
+		<category><![CDATA[Dress]]></category>
+		<category><![CDATA[Photography]]></category>
+
+		<guid isPermaLink="false">http://www.cssigniter.com/vip/untoldstories/?p=224</guid>
+				<description><![CDATA[Wes Anderson banjo you probably haven&#8217;t heard of  [&#8230;]]]></description>
+						<wfw:commentRss>./../swag-meggings-jean/feed/index.html</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 	</channel>
